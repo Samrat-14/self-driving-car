@@ -64,7 +64,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## View Demo
 
-Live Demo: [https://samrat-scribesync.vercel.app/](https://samrat-scribesync.vercel.app)
+Live Demo: [https://samrat-14.github.io/self-driving-car/](https://samrat-14.github.io/self-driving-car)
 
 ## Contact
 
